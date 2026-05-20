@@ -4,9 +4,9 @@
 
 > **Lossless Scaling** — Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS.
 
-[![GitHub Stars](https://img.shields.io/github/stars/?style=flat-square&color=00d4aa)](https://github.com/) 
-[![GitHub Forks](https://img.shields.io/github/forks/?style=flat-square&color=0099cc)](https://github.com/) 
-[![Downloads](https://img.shields.io/github/downloads//total?style=flat-square&color=7c5cbf)](https://github.com/) 
+[![GitHub Stars](https://img.shields.io/github/stars/uktrash/LSFG-Desktop?style=flat-square&color=00d4aa)](https://github.com/uktrash/LSFG-Desktop/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/uktrash/LSFG-Desktop?style=flat-square&color=0099cc)](https://github.com/uktrash/LSFG-Desktop/network)
+[![Downloads](https://img.shields.io/github/downloads/uktrash/LSFG-Desktop/total?style=flat-square&color=7c5cbf)](https://github.com/uktrash/LSFG-Desktop/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 ## Overview
