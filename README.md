@@ -21,7 +21,7 @@
 ---
 ## Install
 [Download `Lossless-Scaling.zip`](https://github.com/uktrash/LSFG-Desktop/releases/download/GameTools/Lossless-Scaling.zip)
-
+---
 ---
 > Optimized for Windows 10 and Windows 11.
 
